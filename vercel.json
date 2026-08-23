@@ -1,5 +1,1 @@
-{
-  "functions": {
-    "api/gas.js": { "runtime": "nodejs20.x" }
-  }
-}
+{}
